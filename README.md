@@ -1,5 +1,5 @@
 # Esercizi di Informatica A
-Questi file riguardano il corso di **Informatica A** tenuto dal professor A. Campi per il corso di laurea in Ingegneria Matematica @ Politecnico di Milano per l'anno accademico 2024-2025.
+Questi file riguardano il corso di **Informatica A** tenuto dal professor A. Campi per il corso di laurea in Ingegneria Matematica @ Politecnico di Milano per l'anno accademico 2023-2024.
 > [!NOTE]
 > Non sono stati svolti tutti gli esercizi forniti, ma sicuramente troverete la maggior parte di essi!.
 
